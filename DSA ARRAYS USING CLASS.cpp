@@ -21,7 +21,7 @@ public:
 	}
 	void display(int arr[]) {
 		cout << "The values are :" << endl;
-		for (int i = 0; i < 10; i++) {    // 10 for one loop merg and length with odher
+		for (int i = 0; i < 10; i++) {    // 10 for one loop merg and length with other
 			cout << arr[i] << endl;
 		}
 	}
